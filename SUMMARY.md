@@ -5,7 +5,8 @@
 
 ## যোগাযোগের যোগসূত্র
 
-* [যোগাযোগ কিভাবে এলো?](communication-connection/how-all-started.md)
+* [যোগাযোগ কিভাবে এলো?](communication-connection/how-all-started/README.md)
+  * [যোগাযোগের একটা টাইমলাইন](communication-connection/how-all-started/timeline.md)
 * [যোগাযোগের সাথে প্রযুক্তি এলো কিভাবে?](communication-connection/undefined.md)
 * [যোগাযোগ প্রযুক্তির হিসেব](communication-connection/undefined-1.md)
 
