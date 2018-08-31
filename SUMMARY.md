@@ -18,4 +18,5 @@
 ## তারের যোগাযোগের গল্প
 
 * [তারের যোগাযোগ](line-comm/line-connection.md)
+* [সাগরের ফাইবার অপটিক](line-comm/fiber-optic.md)
 
