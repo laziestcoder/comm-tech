@@ -14,3 +14,7 @@
 * [আপনার হাতে কী?](radio-tech/mobile.md)
 * [রেডিও প্রযুক্তি](radio-tech/radio-tech-what-is.md)
 
+## তারের যোগাযোগের গল্প
+
+* [তারের যোগাযোগ](line-comm/line-connection.md)
+
