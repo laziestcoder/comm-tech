@@ -15,9 +15,13 @@ description: >-
 
 আচ্ছা, কেনই বা যোগাযোগ প্রযুক্তি এলো? মানুষের যোগাযোগের মধ্যে এই প্রযুক্তির 
 
-## Have you had a chance to answer the previous question?
+##  বেতার, রেডিও প্রযুক্তির গল্প
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+পুরো পৃথিবীর সবচেয়ে বেশি "আর অ্যান্ড ডি" হচ্ছে কিন্তু এখানে। পুরো পৃথিবীর মানুষের চেয়ে বেশি রেডিও যন্ত্র আছে আমাদের হাতের নাগালে। 
+
+## তারের যোগাযোগ 
+
+পুরো পৃথিবীকে ঘিরে রেখেছে হাজারো ফাইবার অপটিক কেবল। 
 
 
 
